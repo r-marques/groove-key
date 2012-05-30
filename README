@@ -13,6 +13,7 @@ Installation
 
     - git clone https://github.com/r-marques/groove-key.git
     - cp -r groove-key@rmarques/ ~/.local/share/cinnamon/applets/
+    - enable applet in cinnamon-settings
 
 keySharky API server
     
