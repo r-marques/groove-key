@@ -12,7 +12,7 @@ Author
 Installation
 
     - git clone https://github.com/r-marques/groove-key.git
-    - mv groove-key@rmarques ~/.local/share/cinnamon/applets/
+    - cp -r groove-key@rmarques/ ~/.local/share/cinnamon/applets/
 
 keySharky API server
     
